@@ -159,25 +159,25 @@
             <Afflatus_Solace>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>1</weight>
+                <weight>9</weight>
                 <display>true</display>
             </Afflatus_Solace>
             <Divine_Caress>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>2</weight>
+                <weight>8</weight>
                 <display>true</display>
             </Divine_Caress>
             <Divine_Seal>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>3</weight>
+                <weight>7</weight>
                 <display>true</display>
             </Divine_Seal>
             <Sacrosanctity>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>4</weight>
+                <weight>6</weight>
                 <display>true</display>
             </Sacrosanctity>
             <Devotion>
@@ -189,25 +189,25 @@
             <Afflatus_Misery>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>6</weight>
+                <weight>4</weight>
                 <display>true</display>
             </Afflatus_Misery>
             <Martyr>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>7</weight>
+                <weight>3</weight>
                 <display>true</display>
             </Martyr>
             <Benediction>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>8</weight>
+                <weight>2</weight>
                 <display>false</display>
             </Benediction>
             <Asylum>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>9</weight>
+                <weight>1</weight>
                 <display>false</display>
             </Asylum>
         </WHM>
@@ -215,19 +215,19 @@
             <Mana_Wall>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>1</weight>
+                <weight>7</weight>
                 <display>true</display>
             </Mana_Wall>
             <Elemental_Seal>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>2</weight>
+                <weight>6</weight>
                 <display>true</display>
             </Elemental_Seal>
             <Enmity_Douse>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>3</weight>
+                <weight>5</weight>
                 <display>true</display>
             </Enmity_Douse>
             <Manawell>
@@ -239,19 +239,19 @@
             <Cascade>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>5</weight>
+                <weight>3</weight>
                 <display>true</display>
             </Cascade>
             <Manafont>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>6</weight>
+                <weight>2</weight>
                 <display>false</display>
             </Manafont>
             <Subtle_Sorcery>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>7</weight>
+                <weight>1</weight>
                 <display>false</display>
             </Subtle_Sorcery>
         </BLM>
@@ -389,37 +389,37 @@
             <Majesty>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>1</weight>
+                <weight>13</weight>
                 <display>true</display>
             </Majesty>
             <Divine_Emblem>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>2</weight>
+                <weight>12</weight>
                 <display>true</display>
             </Divine_Emblem>
             <Sentinel>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>3</weight>
+                <weight>11</weight>
                 <display>true</display>
             </Sentinel>
             <Shield_Bash>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>4</weight>
+                <weight>10</weight>
                 <display>true</display>
             </Shield_Bash>
             <Rampart>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>5</weight>
+                <weight>9</weight>
                 <display>true</display>
             </Rampart>
             <Fealty>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>6</weight>
+                <weight>8</weight>
                 <display>true</display>
             </Fealty>
             <Chivalry>
@@ -431,37 +431,37 @@
             <Palisade>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>8</weight>
+                <weight>6</weight>
                 <display>true</display>
             </Palisade>
             <Holy_Circle>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>9</weight>
+                <weight>5</weight>
                 <display>false</display>
             </Holy_Circle>
             <Sepulcher>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>10</weight>
+                <weight>4</weight>
                 <display>false</display>
             </Sepulcher>
             <Cover>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>11</weight>
+                <weight>3</weight>
                 <display>false</display>
             </Cover>
             <Intervene>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>12</weight>
+                <weight>2</weight>
                 <display>false</display>
             </Intervene>
             <Invincible>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>13</weight>
+                <weight>1</weight>
                 <display>false</display>
             </Invincible>
         </PLD>
@@ -659,19 +659,19 @@
             <Nightingale>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>1</weight>
+                <weight>7</weight>
                 <display>true</display>
             </Nightingale>
             <Troubadour>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>2</weight>
+                <weight>6</weight>
                 <display>true</display>
             </Troubadour>
             <Marcato>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>3</weight>
+                <weight>5</weight>
                 <display>true</display>
             </Marcato>
             <Pianissimo>
@@ -683,19 +683,19 @@
             <Tenuto>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>5</weight>
+                <weight>3</weight>
                 <display>false</display>
             </Tenuto>
             <Soul_Voice>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>6</weight>
+                <weight>2</weight>
                 <display>false</display>
             </Soul_Voice>
             <Clarion_Call>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>7</weight>
+                <weight>1</weight>
                 <display>false</display>
             </Clarion_Call>
         </BRD>
@@ -757,37 +757,37 @@
             <Overkill>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>10</weight>
+                <weight>6</weight>
                 <display>false</display>
             </Overkill>
             <Scavenge>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>11</weight>
+                <weight>5</weight>
                 <display>false</display>
             </Scavenge>
             <Flashy_Shot>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>11</weight>
+                <weight>4</weight>
                 <display>false</display>
             </Flashy_Shot>
             <Stealth_Shot>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>11</weight>
+                <weight>3</weight>
                 <display>false</display>
             </Stealth_Shot>
             <Unlimited_Shot>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>12</weight>
+                <weight>2</weight>
                 <display>false</display>
             </Unlimited_Shot>
             <Eagle_Eye_Shot>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>13</weight>
+                <weight>1</weight>
                 <display>false</display>
             </Eagle_Eye_Shot>
         </RNG>
@@ -881,37 +881,37 @@
             <Yonin>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>1</weight>
+                <weight>6</weight>
                 <display>true</display>
             </Yonin>
             <Innin>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>2</weight>
+                <weight>5</weight>
                 <display>true</display>
             </Innin>
             <Issekigan>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>3</weight>
+                <weight>4</weight>
                 <display>true</display>
             </Issekigan>
             <Futae>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>4</weight>
+                <weight>3</weight>
                 <display>false</display>
             </Futae>
             <Mikage>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>5</weight>
+                <weight>2</weight>
                 <display>false</display>
             </Mikage>
             <Mijin_Gakure>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>6</weight>
+                <weight>1</weight>
                 <display>false</display>
             </Mijin_Gakure>
         </NIN>
@@ -919,85 +919,85 @@
             <Angon>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>1</weight>
+                <weight>700</weight>
                 <display>true</display>
             </Angon>
-            <Jump>
-                <type>ability</type>
-                <flash>false</flash>
-                <weight>2</weight>
-                <display>true</display>
-            </Jump>
-            <High_Jump>
-                <type>ability</type>
-                <flash>false</flash>
-                <weight>3</weight>
-                <display>true</display>
-            </High_Jump>
             <Super_Jump>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>4</weight>
+                <weight>700</weight>
                 <display>true</display>
             </Super_Jump>
+            <High_Jump>
+                <type>ability</type>
+                <flash>false</flash>
+                <weight>600</weight>
+                <display>true</display>
+            </High_Jump>
+            <Jump>
+                <type>ability</type>
+                <flash>false</flash>
+                <weight>400</weight>
+                <display>true</display>
+            </Jump>
             <Spirit_Jump>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>5</weight>
+                <weight>10</weight>
                 <display>true</display>
             </Spirit_Jump>
             <Soul_Jump>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>6</weight>
+                <weight>9</weight>
                 <display>true</display>
             </Soul_Jump>
             <Spirit_Link>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>7</weight>
+                <weight>8</weight>
                 <display>true</display>
             </Spirit_Link>
             <Call_Wyvern>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>8</weight>
+                <weight>7</weight>
                 <display>true</display>
             </Call_Wyvern>
             <Deep_Breathing>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>9</weight>
+                <weight>6</weight>
                 <display>false</display>
             </Deep_Breathing>
             <Spirit_Bond>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>10</weight>
+                <weight>5</weight>
                 <display>false</display>
             </Spirit_Bond>
             <Ancient_Circle>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>11</weight>
+                <weight>4</weight>
                 <display>false</display>
             </Ancient_Circle>
             <Dragon_Breaker>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>12</weight>
+                <weight>3</weight>
                 <display>false</display>
             </Dragon_Breaker>
             <Fly_High>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>13</weight>
+                <weight>2</weight>
                 <display>false</display>
             </Fly_High>
             <Spirit_Surge>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>14</weight>
+                <weight>1</weight>
                 <display>false</display>
             </Spirit_Surge>
         </DRG>
@@ -1005,31 +1005,31 @@
             <Apogee>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>1</weight>
+                <weight>11</weight>
                 <display>true</display>
             </Apogee>
             <Mana_Cede>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>2</weight>
+                <weight>10</weight>
                 <display>true</display>
             </Mana_Cede>
             <Elemental_Siphon>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>3</weight>
+                <weight>9</weight>
                 <display>false</display>
             </Elemental_Siphon>
             <Astral_Conduit>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>4</weight>
+                <weight>8</weight>
                 <display>false</display>
             </Astral_Conduit>
             <Astral_Flow>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>5</weight>
+                <weight>7</weight>
                 <display>false</display>
             </Astral_Flow>
             <Blood_Pact_Rage>
@@ -1041,31 +1041,31 @@
             <Blood_Pact_Ward>
                 <type>pet</type>
                 <flash>true</flash>
-                <weight>7</weight>
+                <weight>5</weight>
                 <display>true</display>
             </Blood_Pact_Ward>
             <Avatars_Favor>
                 <type>pet</type>
                 <flash>true</flash>
-                <weight>8</weight>
+                <weight>4</weight>
                 <display>true</display>
             </Avatars_Favor>
             <Assault>
                 <type>pet</type>
                 <flash>false</flash>
-                <weight>9</weight>
+                <weight>3</weight>
                 <display>false</display>
             </Assault>
             <Retreat>
                 <type>pet</type>
                 <flash>false</flash>
-                <weight>10</weight>
+                <weight>2</weight>
                 <display>false</display>
             </Retreat>
             <Release>
                 <type>pet</type>
                 <flash>false</flash>
-                <weight>11</weight>
+                <weight>1</weight>
                 <display>false</display>
             </Release>
         </SMN>
@@ -1073,49 +1073,49 @@
             <Diffusion>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>1</weight>
+                <weight>8</weight>
                 <display>true</display>
             </Diffusion>
             <Unbridled_Learning>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>2</weight>
+                <weight>7</weight>
                 <display>true</display>
             </Unbridled_Learning>
             <Chain_Affinity>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>3</weight>
+                <weight>6</weight>
                 <display>true</display>
             </Chain_Affinity>
             <Convergence>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>4</weight>
+                <weight>5</weight>
                 <display>true</display>
             </Convergence>
             <Burst_Affinity>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>5</weight>
+                <weight>4</weight>
                 <display>true</display>
             </Burst_Affinity>
             <Efflux>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>6</weight>
+                <weight>3</weight>
                 <display>false</display>
             </Efflux>
             <Unbridled_Wisdom>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>7</weight>
+                <weight>2</weight>
                 <display>false</display>
             </Unbridled_Wisdom>
             <Azure_Lore>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>8</weight>
+                <weight>1</weight>
                 <display>false</display>
             </Azure_Lore>
         </BLU>
@@ -1185,61 +1185,61 @@
             <Activate>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>1</weight>
+                <weight>10</weight>
                 <display>true</display>
             </Activate>
             <Repair>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>2</weight>
+                <weight>9</weight>
                 <display>true</display>
             </Repair>
             <Role_Reversal>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>3</weight>
+                <weight>8</weight>
                 <display>true</display>
             </Role_Reversal>
             <Ventriloquy>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>4</weight>
+                <weight>7</weight>
                 <display>true</display>
             </Ventriloquy>
             <Tactical_Switch>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>5</weight>
+                <weight>6</weight>
                 <display>true</display>
             </Tactical_Switch>
             <Cooldown>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>6</weight>
+                <weight>5</weight>
                 <display>true</display>
             </Cooldown>
             <Deus_Ex_Automata>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>7</weight>
+                <weight>4</weight>
                 <display>true</display>
             </Deus_Ex_Automata>
             <Maintenance>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>8</weight>
+                <weight>3</weight>
                 <display>true</display>
             </Maintenance>
             <Overdrive>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>9</weight>
+                <weight>2</weight>
                 <display>false</display>
             </Overdrive>
             <Heady_Artifice>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>10</weight>
+                <weight>1</weight>
                 <display>false</display>
             </Heady_Artifice>
         </PUP>
@@ -1247,61 +1247,61 @@
             <Steps>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>1</weight>
+                <weight>21</weight>
                 <display>true</display>
             </Steps>
             <No_Foot_Rise>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>2</weight>
+                <weight>20</weight>
                 <display>true</display>
             </No_Foot_Rise>
             <Presto>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>3</weight>
+                <weight>19</weight>
                 <display>true</display>
             </Presto>
             <Flourishes_I>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>4</weight>
+                <weight>18</weight>
                 <display>true</display>
             </Flourishes_I>
             <Flourishes_II>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>5</weight>
+                <weight>17</weight>
                 <display>true</display>
             </Flourishes_II>
             <Flourishes_III>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>6</weight>
+                <weight>16</weight>
                 <display>true</display>
             </Flourishes_III>
             <Curing_Waltz>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>7</weight>
+                <weight>15</weight>
                 <display>false</display>
             </Curing_Waltz>
             <Curing_Waltz_II>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>8</weight>
+                <weight>14</weight>
                 <display>false</display>
             </Curing_Waltz_II>
             <Curing_Waltz_III>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>9</weight>
+                <weight>13</weight>
                 <display>true</display>
             </Curing_Waltz_III>
             <Curing_Waltz_IV>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>10</weight>
+                <weight>12</weight>
                 <display>true</display>
             </Curing_Waltz_IV>
             <Curing_Waltz_V>
@@ -1313,61 +1313,61 @@
             <Healing_Waltz>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>12</weight>
+                <weight>10</weight>
                 <display>true</display>
             </Healing_Waltz>
             <Divine_Waltz>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>13</weight>
+                <weight>9</weight>
                 <display>false</display>
             </Divine_Waltz>
             <Divine_Waltz_II>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>14</weight>
+                <weight>8</weight>
                 <display>true</display>
             </Divine_Waltz_II>
             <Fan_Dance>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>15</weight>
+                <weight>7</weight>
                 <display>true</display>
             </Fan_Dance>
             <Saber_Dance>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>16</weight>
+                <weight>6</weight>
                 <display>true</display>
             </Saber_Dance>
             <Sambas>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>17</weight>
+                <weight>5</weight>
                 <display>false</display>
             </Sambas>
             <Contradance>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>18</weight>
+                <weight>4</weight>
                 <display>false</display>
             </Contradance>
             <Jigs>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>19</weight>
+                <weight>3</weight>
                 <display>false</display>
             </Jigs>
             <Trance>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>20</weight>
+                <weight>2</weight>
                 <display>false</display>
             </Trance>
             <Grand_Pas>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>21</weight>
+                <weight>1</weight>
                 <display>false</display>
             </Grand_Pas>
         </DNC>
@@ -1431,85 +1431,85 @@
             <Entrust>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>1</weight>
+                <weight>14</weight>
                 <display>true</display>
             </Entrust>
             <Blaze_of_Glory>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>2</weight>
+                <weight>13</weight>
                 <display>true</display>
             </Blaze_of_Glory>
             <Ecliptic_Attrition>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>3</weight>
+                <weight>12</weight>
                 <display>true</display>
             </Ecliptic_Attrition>
             <Lasting_Emanation>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>4</weight>
+                <weight>11</weight>
                 <display>true</display>
             </Lasting_Emanation>
             <Life_Cycle>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>5</weight>
+                <weight>10</weight>
                 <display>true</display>
             </Life_Cycle>
             <Dematerialize>
                 <type>ability</type>
                 <flash>true</flash>
-                <weight>6</weight>
+                <weight>9</weight>
                 <display>true</display>
             </Dematerialize>
             <Radial_Arcana>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>7</weight>
+                <weight>8</weight>
                 <display>true</display>
             </Radial_Arcana>
             <Concentric_Pulse>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>8</weight>
+                <weight>7</weight>
                 <display>false</display>
             </Concentric_Pulse>
             <Theurgic_Focus>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>9</weight>
+                <weight>6</weight>
                 <display>false</display>
             </Theurgic_Focus>
             <Full_Circle>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>10</weight>
+                <weight>5</weight>
                 <display>false</display>
             </Full_Circle>
             <Collimated_Fervor>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>11</weight>
+                <weight>4</weight>
                 <display>false</display>
             </Collimated_Fervor>
             <Mending_Halation>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>12</weight>
+                <weight>3</weight>
                 <display>false</display>
             </Mending_Halation>
             <Bolster>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>13</weight>
+                <weight>2</weight>
                 <display>false</display>
             </Bolster>
             <Widened_Compass>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>14</weight>
+                <weight>1</weight>
                 <display>false</display>
             </Widened_Compass>
         </GEO>
@@ -1577,37 +1577,37 @@
             <Swipe>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>10</weight>
+                <weight>6</weight>
                 <display>false</display>
             </Swipe>
             <Lunge>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>11</weight>
+                <weight>5</weight>
                 <display>false</display>
             </Lunge>
             <Embolden>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>12</weight>
+                <weight>4</weight>
                 <display>false</display>
             </Embolden>
             <Rune_Enchantment>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>13</weight>
+                <weight>3</weight>
                 <display>false</display>
             </Rune_Enchantment>
             <Elemental_Sforzo>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>15</weight>
+                <weight>2</weight>
                 <display>false</display>
             </Elemental_Sforzo>
             <Odyllic_Subterfuge>
                 <type>ability</type>
                 <flash>false</flash>
-                <weight>16</weight>
+                <weight>1</weight>
                 <display>false</display>
             </Odyllic_Subterfuge>
         </RUN>
