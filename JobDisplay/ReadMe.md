@@ -23,4 +23,4 @@ Commands:
 
 //jd|jobdisplay pos [x] [y]				(set text box position)
 
-![jobdisplay](http://i.imgur.com/.jpg)
+![jobdisplay](https://imgur.com/75C5C48)
